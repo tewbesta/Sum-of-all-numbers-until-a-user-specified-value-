@@ -1,0 +1,10 @@
+C:\Users\tewbe\source\repos\SumofNumbers\bin\Debug\netcoreapp3.1\SumofNumbers.exe
+C:\Users\tewbe\source\repos\SumofNumbers\bin\Debug\netcoreapp3.1\SumofNumbers.deps.json
+C:\Users\tewbe\source\repos\SumofNumbers\bin\Debug\netcoreapp3.1\SumofNumbers.runtimeconfig.json
+C:\Users\tewbe\source\repos\SumofNumbers\bin\Debug\netcoreapp3.1\SumofNumbers.runtimeconfig.dev.json
+C:\Users\tewbe\source\repos\SumofNumbers\bin\Debug\netcoreapp3.1\SumofNumbers.dll
+C:\Users\tewbe\source\repos\SumofNumbers\bin\Debug\netcoreapp3.1\SumofNumbers.pdb
+C:\Users\tewbe\source\repos\SumofNumbers\obj\Debug\netcoreapp3.1\SumofNumbers.AssemblyInfoInputs.cache
+C:\Users\tewbe\source\repos\SumofNumbers\obj\Debug\netcoreapp3.1\SumofNumbers.AssemblyInfo.cs
+C:\Users\tewbe\source\repos\SumofNumbers\obj\Debug\netcoreapp3.1\SumofNumbers.dll
+C:\Users\tewbe\source\repos\SumofNumbers\obj\Debug\netcoreapp3.1\SumofNumbers.pdb
